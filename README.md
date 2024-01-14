@@ -29,6 +29,6 @@ Notably, it only takes 10 lines of code in total using bitwise operations to loc
 
 **Note:**
 
-- As all alternative methods are included in the code, to try the code, please comment out the duplicated part, leaving only `a.1/a.2/a.3 + b` or `c` parts for locking pairs and finding winners.
+- As all alternative methods are included in the code, to try the code, please comment out the duplicated part, leaving only `a.1/a.2/a.3 + b` or `c` part for locking pairs and finding winners.
 
-- For more context about Tideman, please check the [CS50 problemset page](https://cs50.harvard.edu/x/2024/psets/3/tideman/). The article ["Optimize Tideman Algorithm Using Bitwise Operations"](https://anhui-gui.com/posts/bitwise-operators/) on [my website](https://anhui-gui.com/) has demonstrated detailed explanations of this solution with explicit illustrations.
+- For more context about Tideman, please check the [CS50 problem set page](https://cs50.harvard.edu/x/2024/psets/3/tideman/). The article ["Optimize Tideman Algorithm Using Bitwise Operations"](https://anhui-gui.com/posts/bitwise-operators/) on [my website](https://anhui-gui.com/) has demonstrated detailed explanations of this solution with explicit illustrations.
