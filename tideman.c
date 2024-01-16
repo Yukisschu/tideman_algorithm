@@ -166,7 +166,7 @@ void sort_pairs(void)
 
 // Lock pairs into the candidate graph in order, without creating cycles
 
-// a.1 adjacency list
+// a.1 Adjacency list
 void lock_pairs(void)
 {
     int size = MAX * (MAX - 1);
@@ -222,7 +222,7 @@ void lock_pairs(void)
     return;
 }
 
-// a.2 adjacency matrix
+// a.2 Adjacency matrix
 void lock_pairs(void)
 {
     bool NEW[MAX][MAX] = {{}};
@@ -242,7 +242,7 @@ void lock_pairs(void)
     }
     return;
 }
-// a.3 bitwise operations 
+// a.3 Bitwise operations 
 void lock_pairs(void)
 {
     int NEW[MAX] = {};
@@ -278,7 +278,7 @@ void print_winner(void)
     return;
 }
 
-// c. using bitwise operations to lock pairs and print winners
+// c. Using bitwise operations to lock pairs and print winners
 void find_winner(void)
 {
     int NEW[MAX] = {};
